@@ -1,0 +1,22 @@
+[
+  {
+    "name": "City Hospital",
+    "patientCount": 200,
+    "location": "ernakulam"
+  },
+  {
+    "name": "General Hospital",
+    "patientCount": 400,
+    "location": "kottyam"
+  },
+  {
+    "name": "svs hospital",
+    "patientCount": 200,
+    "location": "kochi"
+  },
+  {
+    "name": "apolo hospital",
+    "patientCount": 250,
+    "location": "tvm"
+  }
+]
